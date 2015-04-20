@@ -1,0 +1,10 @@
+name: "Nancy's Jekyll Site!"
+description: "Nancy's Jekyll tutorial site."
+
+url: "http://localhost:4000"
+
+paginate: 5
+
+markdown: rdiscount
+permalink: pretty
+highlighter: pygments
